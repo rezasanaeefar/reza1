@@ -1,3 +1,4 @@
 this is edited row 
 this is istsecond line 
-this is third line
+this is third line 
+new part
